@@ -15,3 +15,4 @@ Scenario: Navigate to a product and add the same to the User basket
 	Given User navigate for Lenovo Laptop
 	When Add the laptop to the basket
 	Then User basket should display with added item
+	Then User basket should display with added item
