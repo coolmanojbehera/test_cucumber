@@ -4,3 +4,4 @@ Feature:ghdjke
 
   Scenario:
     <Some interesting scenario steps here>
+    when ygvhfdjewrk
